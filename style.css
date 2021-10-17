@@ -1,0 +1,18 @@
+#Welcome{
+    background-color: lightskyblue;
+}
+#Student{
+    background-color: orange;
+}
+#PYP{
+    background-color: lightskyblue;
+}
+.menu{
+     position: fixed;
+    background: white;
+    width: 100%;
+    top:0px;
+    z-index: 10;
+    float: left;
+    
+}
